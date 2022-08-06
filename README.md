@@ -32,9 +32,9 @@ Almost all things can be controlled via `/trigger`, the rest is controlled via `
 
 #### Random Effect:
 
-`effect_challenge_switch`   -   Starts and stops Random Effect Challenge.
+`random_effect_switch`   -   Starts and stops Random Effect Challenge.
 
-`effect_challenge_reset`    -   Removes all effects and resets the cooldown for the next effect.
+`random_effect_reset`    -   Removes all effects and resets the cooldown for the next effect.
 
 #### Random Mob:
 
