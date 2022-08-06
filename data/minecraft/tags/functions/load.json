@@ -1,0 +1,9 @@
+{
+  "values":[
+	"random_effect:load",
+  "timer:load",
+  "custom_health:load",
+  "lava_chase:load",
+  "random_mob:load"
+  ]
+}

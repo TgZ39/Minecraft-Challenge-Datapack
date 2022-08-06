@@ -1,0 +1,9 @@
+{
+  "values":[
+	"random_effect:tick",
+  "timer:tick",
+  "custom_health:tick",
+  "lava_chase:tick",
+  "random_mob:tick"
+  ]
+}
