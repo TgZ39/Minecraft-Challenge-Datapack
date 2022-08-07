@@ -26,6 +26,8 @@ All things can be controlled via `/trigger`.
 
 `custom_health_reset`       -   Sets Health to 10 Hearts and regenerates Health & Saturation.
 
+`custom_health_update`      -   Updates set Health.
+
 #### Lava Chase:
 
 `lava_chase_toggle`         -   Starts and stops Lava Chase Challenge.
