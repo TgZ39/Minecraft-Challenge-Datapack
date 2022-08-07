@@ -9,4 +9,4 @@ scoreboard objectives add random_effect_switch trigger
 scoreboard objectives add random_effect_reset trigger
 scoreboard players set effect_delay effect_seconds 30
 
-tellraw @a {"text":"Challenge: Random Effect Challenge loaded!","color":"red","bold":true}
+tellraw @a [{"text":"Random Effect: ","color":"gold","bold":true},{"text":"Challenge loaded!","color":"dark_green"}]

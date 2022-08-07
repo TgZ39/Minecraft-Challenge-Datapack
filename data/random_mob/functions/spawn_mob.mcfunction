@@ -79,4 +79,4 @@ execute as @e[type=minecraft:armor_stand,tag=random_mob_selected] if entity @s[t
 
 tag @e[type=minecraft:armor_stand,tag=random_mob_selected] remove random_mob_selected
 
-tellraw @a {"text":"Challenge: Neuer Mob gespawnt!","color":"green","bold":true}
+tellraw @a [{"text":"Random Mob: ","color":"gold","bold":true},{"text":"New mob spawned!","color":"dark_green"}]

@@ -71,4 +71,4 @@ execute as @e[type=armor_stand,tag=randomeffectselected] at @s if entity @s[tag=
 
 tag @e[type=armor_stand,tag=randomeffectselected] remove randomeffectselected
 
-tellraw @a {"text":"Challenge: New Effect applied!","color":"green","bold":true}
+tellraw @a [{"text":"Random Effect: ","color":"gold","bold":true},{"text":"New effect apllied!","color":"dark_green"}]
