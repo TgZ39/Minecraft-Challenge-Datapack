@@ -1,6 +1,6 @@
 scoreboard players set @a timer_reset 0
 
-scoreboard players set timer_dummy timer_switch 3
+scoreboard players set @a timer_toggle 0
 
 scoreboard players set timer_dummy timer_ticks 0
 scoreboard players set timer_dummy timer_seconds 0

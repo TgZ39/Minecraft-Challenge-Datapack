@@ -2,7 +2,7 @@ scoreboard objectives add timer_ticks dummy
 scoreboard objectives add timer_seconds dummy
 scoreboard objectives add timer_minutes dummy
 scoreboard objectives add timer_hours dummy
-scoreboard objectives add timer_switch trigger
+scoreboard objectives add timer_toggle trigger
 scoreboard objectives add timer_reset trigger
 
 scoreboard players set timer_dummy timer_ticks 0
