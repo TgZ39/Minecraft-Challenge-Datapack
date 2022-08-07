@@ -16,7 +16,7 @@ It was written in mcfunction using Atom.
     
 ## How to Use?
 
-Almost all things can be controlled via `/trigger`, the rest is controlled via `/scoreboard players set`
+All things can be controlled via `/trigger`.
 
 ### Triggers:
 
