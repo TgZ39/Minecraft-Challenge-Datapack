@@ -1,6 +1,6 @@
 #sets up armor_stands
 forceload add 0 0
-execute unless entity @e[type=armor_stand,tag=random_mob] run function random_mob:summon
+execute unless entity @e[type=minecraft:marker,tag=random_mob] run function random_mob:summon
 
 #creates scoreboards for timer
 scoreboard objectives add mob_ticks dummy
