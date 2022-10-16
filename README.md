@@ -50,6 +50,10 @@ All things can be controlled via `/trigger`.
 
 `timer_reset`               -   Resets the Timer.
 
+#### QoL:
+
+`gui`                       -   Gives the player a book that makes it possible to edit all settings for the Datapack
+
 ## License
 
 No License.
