@@ -1,1 +1,1 @@
-execute as @a at @s run setblock ~ ~10 ~ minecraft:lava
+execute at @a run setblock ~ ~10 ~ minecraft:lava
