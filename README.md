@@ -2,9 +2,6 @@
 
 A Minecraft Datapack that adds new Challenges into the game.
 
-It was written in mcfunction using Atom.
-
-
 ## Installing
 
 **1.** Download the .zip from Releases
