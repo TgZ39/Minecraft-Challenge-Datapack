@@ -15,9 +15,9 @@ A Minecraft Datapack that adds new Challenges into the game.
 
 All things can be controlled via `/trigger`.
 
-### Triggers:
+## Triggers:
 
-#### Custom Health:
+### Custom Health:
 
 `custom_health_toggle`      -   Starts and stops Custom Health Challenge.
 
@@ -25,29 +25,29 @@ All things can be controlled via `/trigger`.
 
 `custom_health_update`      -   Updates set Health.
 
-#### Lava Chase:
+### Lava Chase:
 
 `lava_chase_toggle`         -   Starts and stops Lava Chase Challenge.
 
-#### Random Effect:
+### Random Effect:
 
 `random_effect_toggle`   -   Starts and stops Random Effect Challenge.
 
 `random_effect_reset`    -   Removes all effects and resets the cooldown for the next effect.
 
-#### Random Mob:
+### Random Mob:
 
 `random_mob_toggle`         -   Starts and stops Random Mobs Challenge.
 
 `random_mob_reset`          -   Resets the cooldown for next Mob.
 
-#### Timer:
+### Timer:
 
 `timer_toggle`              -   Starts and stops the Timer.
 
 `timer_reset`               -   Resets the Timer.
 
-#### QoL:
+### QoL:
 
 `gui`                       -   Gives the player a book that makes it possible to edit all settings for the Datapack
 
