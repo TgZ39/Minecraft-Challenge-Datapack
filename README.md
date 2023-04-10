@@ -13,7 +13,7 @@ A Minecraft Datapack that adds new Challenges into the game.
     
 ## How to Use?
 
-All things can be controlled via `/trigger`.
+All settings can be controlled using `/trigger`.
 
 ### Triggers:
 
